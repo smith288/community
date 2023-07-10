@@ -1,0 +1,8 @@
+---
+id: mlb-player-ab
+name: MLB Player AB
+summary: Show the statistics
+desc: For your favorite team, show the current player AB and stats.
+author: smith288
+fileName: mlb_player_ab.star
+packageName: mlbplayerab
